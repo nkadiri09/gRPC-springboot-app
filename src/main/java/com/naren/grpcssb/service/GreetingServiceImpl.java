@@ -1,8 +1,8 @@
 package com.naren.grpcssb.service;
 
-import com.naren.grpc.GreetRequest;
-import com.naren.grpc.GreetResponse;
-import com.naren.grpc.GreetServiceGrpc;
+import com.naren.sample.grpc.GreetRequest;
+import com.naren.sample.grpc.GreetResponse;
+import com.naren.sample.grpc.GreetServiceGrpc;
 import io.grpc.stub.StreamObserver;
 import net.devh.boot.grpc.server.service.GrpcService;
 
